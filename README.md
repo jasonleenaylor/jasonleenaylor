@@ -1,6 +1,6 @@
-### Hi there 👋
+### Jason Naylor - Software Developer 
 
-![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonleenaylor&count_private=true)
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonleenaylor&count_private=true&hide=stars&theme=gotham)
 <!--
 **jasonleenaylor/jasonleenaylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
